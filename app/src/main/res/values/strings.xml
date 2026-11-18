@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">دوئل دانش</string>
+    <string name="home_subtitle">رقابت هوش و دانش، تک‌نفره یا دوئل دوگوشی آفلاین</string>
+    <string name="home_hero_description">بنر گرافیکی دوئل دانش</string>
+    <string name="home_choose_category">انتخاب موضوع مسابقه</string>
+    <string name="home_solo_button">تکنفره</string>
+    <string name="home_duel_button">دوئل</string>
+    <string name="home_duel_hint">نبرد هم‌زمان با گوشی دوم بدون نیاز به اینترنت</string>
+    <string name="home_mistakes_review_button">مرور اشتباهات</string>
+    <string name="home_mistakes_count_format">%1$s سوال نیازمند مرور</string>
+    <string name="home_mistakes_empty_hint">هنوز اشتباهی ثبت نشده است</string>
+
+    <string name="category_vocab">واژگان انگلیسی</string>
+    <string name="category_vocab_desc">معنی واژه‌ها در سه سطح</string>
+    <string name="category_math">ریاضی</string>
+    <string name="category_math_desc">محاسبات سریع و ذهنی</string>
+    <string name="category_geo">جغرافیا</string>
+    <string name="category_geo_desc">ایران‌شناسی و جهان</string>
+    <string name="category_poetry">ادبیات فارسی</string>
+    <string name="category_poetry_desc">شعر کهن و شناخت شاعران</string>
+
+    <string name="game_question_counter">%1$s از %2$s</string>
+    <string name="game_score_label">امتیاز: %1$s</string>
+    <string name="game_timer_seconds">%1$s ثانیه</string>
+    <string name="game_level_badge">سطح %1$s</string>
+    <string name="game_feedback_correct">آفرین! +%1$s امتیاز</string>
+    <string name="game_feedback_wrong">پاسخ نادرست بود</string>
+    <string name="game_feedback_timeout">زمان به پایان رسید</string>
+    <string name="game_back_cd">بازگشت به خانه</string>
+    <string name="game_loading">در حال آماده‌سازی سوال‌ها…</string>
+    <string name="game_error_empty">سوالی برای این بخش پیدا نشد.</string>
+    <string name="game_error_retry">بازگشت</string>
+
+    <string name="result_title">نتیجه مسابقه</string>
+    <string name="result_title_review">نتیجه مرور اشتباهات</string>
+    <string name="result_final_score_label">امتیاز نهایی</string>
+    <string name="result_correct_answers_format">%1$s پاسخ درست از %2$s سوال</string>
+    <string name="result_wrong_list_title">پاسخ‌های نادرست</string>
+    <string name="result_all_correct_title">فوق‌العاده بود!</string>
+    <string name="result_all_correct_subtitle">به تمام سوال‌ها پاسخ درست دادید.</string>
+    <string name="result_your_answer_label">پاسخ شما: %1$s</string>
+    <string name="result_timeout_answer">پاسخ ندادید (پایان زمان)</string>
+    <string name="result_correct_answer_label">پاسخ درست: %1$s</string>
+    <string name="result_explanation_label">توضیح: %1$s</string>
+    <string name="result_play_again">بازی دوباره</string>
+    <string name="result_home">خانه</string>
+
+    <string name="mistakes_title">مرور اشتباهات</string>
+    <string name="mistakes_subtitle">سوال‌هایی که پیش‌تر اشتباه پاسخ داده‌اید</string>
+    <string name="mistakes_start_review">مرور</string>
+    <string name="mistakes_clear_all">پاک کردن همه</string>
+    <string name="mistakes_wrong_count_format">%1$s بار اشتباه</string>
+    <string name="mistakes_delete_cd">حذف از فهرست اشتباهات</string>
+    <string name="mistakes_empty_title">فهرست اشتباهات خالی است</string>
+    <string name="mistakes_empty_subtitle">هر زمان در بخش‌های واژگان، جغرافیا یا ادبیات اشتباه کنید، سوال‌ها برای مرور اینجا ذخیره می‌شوند.</string>
+    <string name="mistakes_back_home">بازگشت به خانه</string>
+
+    <!-- Stage 2: Duel Mode & Permissions -->
+    <string name="duel_lobby_title">لابی دوئل محلی</string>
+    <string name="duel_player_name_label">نام شما در مسابقه</string>
+    <string name="duel_default_host_name">میزبان</string>
+    <string name="duel_default_guest_name">مهمان</string>
+    <string name="duel_default_player_name">بازیکن</string>
+    <string name="duel_host_button">ساخت بازی</string>
+    <string name="duel_host_button_desc">ایجاد اتاق دوئل و انتظار برای حریف</string>
+    <string name="duel_join_button">پیوستن به بازی</string>
+    <string name="duel_join_button_desc">جستجوی گوشی میزبان در نزدیکی</string>
+    <string name="duel_status_idle">آماده برقراری اتصال محلی</string>
+    <string name="duel_status_advertising">در حال انتشار بازی و انتظار برای حریف…</string>
+    <string name="duel_status_discovering">در حال جستجو…</string>
+    <string name="duel_status_connecting">در حال اتصال…</string>
+    <string name="duel_status_connected">متصل شد</string>
+    <string name="duel_status_connected_with_peer">متصل شد به %1$s</string>
+    <string name="duel_status_lost">اتصال قطع شد</string>
+    <string name="duel_cancel_connection">لغو اتصال</string>
+    <string name="duel_host_setup_title">تنظیمات مسابقه (میزبان)</string>
+    <string name="duel_question_count_label">تعداد سوال</string>
+    <string name="duel_question_count_option">%1$s سوال</string>
+    <string name="duel_start_match_button">شروع دوئل</string>
+    <string name="duel_waiting_for_host_start">منتظر انتخاب موضوع و شروع بازی توسط میزبان…</string>
+
+    <string name="duel_game_title">دوئل هم‌زمان</string>
+    <string name="duel_me_label">شما</string>
+    <string name="duel_opponent_label">حریف</string>
+    <string name="duel_waiting_opponent">منتظر حریف…</string>
+    <string name="duel_round_you_correct">درست زدید (+%1$s)</string>
+    <string name="duel_round_you_wrong">پاسخ شما نادرست بود</string>
+    <string name="duel_round_opponent_correct">حریف درست زد (+%1$s)</string>
+    <string name="duel_round_opponent_wrong">حریف اشتباه یا با تاخیر پاسخ داد</string>
+
+    <string name="duel_result_title">نتیجه دوئل</string>
+    <string name="duel_result_win">شما برنده شدید!</string>
+    <string name="duel_result_draw">مساوی شدید!</string>
+    <string name="duel_result_lose">حریف برنده شد</string>
+    <string name="duel_result_rematch">بازی مجدد</string>
+    <string name="duel_result_rematch_waiting">در انتظار تایید حریف برای بازی مجدد…</string>
+    <string name="duel_result_opponent_wants_rematch">حریف آماده بازی مجدد است!</string>
+    <string name="duel_result_opponent_left">حریف از بازی خارج شد.</string>
+    <string name="duel_result_leave">خروج</string>
+
+    <string name="duel_disconnect_dialog_title">ارتباط قطع شد</string>
+    <string name="duel_disconnect_dialog_message">اتصال با گوشی دیگر قطع شد. می‌توانید دوباره تلاش کنید یا به خانه برگردید.</string>
+    <string name="duel_disconnect_reconnect">تلاش مجدد</string>
+    <string name="duel_disconnect_home">بازگشت به خانه</string>
+
+    <string name="duel_permissions_title">دسترسی‌های لازم برای دوئل بدون اینترنت</string>
+    <string name="duel_permissions_body_api33">برای یافتن و اتصال مستقیم به گوشی دوم بدون اینترنت، برنامه به دسترسی دستگاه‌های وای‌فای نزدیک و بلوتوث نیاز دارد.</string>
+    <string name="duel_permissions_body_api31">برای اتصال مستقیم دو گوشی بدون اینترنت، برنامه به دسترسی بلوتوث و مکان تقریبی/دقیق (فقط برای اسکن دستگاه‌های نزدیک) نیاز دارد.</string>
+    <string name="duel_permissions_body_legacy">در این نسخه اندروید، برای شناسایی گوشی نزدیک از طریق بلوتوث و وای‌فای مستقیم، اجازه دسترسی به موقعیت مکانی لازم است.</string>
+    <string name="duel_permissions_grant_button">اجازه دادن و ادامه</string>
+    <string name="duel_permissions_settings_button">باز کردن تنظیمات برنامه</string>
+    <string name="duel_permissions_denied_hint">اگر دسترسی رد شده است، می‌توانید از تنظیمات برنامه مجوزهای دستگاه‌های نزدیک و بلوتوث را فعال کنید.</string>
+    <string name="duel_hardware_hint">مطمئن شوید بلوتوث و وای‌فای (و در نسخه‌های قدیمی‌تر، مکان دستگاه) در هر دو گوشی روشن است.</string>
+</resources>

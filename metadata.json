@@ -1,0 +1,6 @@
+{
+  "name": "دوئل دانش",
+  "description": "مسابقه آموزشی چهارگزینه‌ای در موضوعات واژگان انگلیسی، ریاضی، جغرافیا و ادبیات فارسی با ثبت اشتباهات و مرور آفلاین",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

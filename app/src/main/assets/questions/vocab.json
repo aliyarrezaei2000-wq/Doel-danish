@@ -1,0 +1,137 @@
+[
+  {
+    "id": "vocab_01",
+    "category": "vocab",
+    "level": 1,
+    "text": "معنی واژه انگلیسی «Abundant» چیست؟",
+    "options": ["فراوان", "نایاب", "شکننده", "موقت"],
+    "correctIndex": 0,
+    "explanation": "Abundant به معنی فراوان و به مقدار زیاد است."
+  },
+  {
+    "id": "vocab_02",
+    "category": "vocab",
+    "level": 1,
+    "text": "معنی واژه انگلیسی «Courage» چیست؟",
+    "options": ["تردید", "شجاعت", "خستگی", "فراموشی"],
+    "correctIndex": 1,
+    "explanation": "Courage یعنی دلیری و شجاعت در برابر دشواری‌ها."
+  },
+  {
+    "id": "vocab_03",
+    "category": "vocab",
+    "level": 1,
+    "text": "معنی واژه انگلیسی «Fragile» چیست؟",
+    "options": ["سنگین", "انعطاف‌پذیر", "شکننده", "تاریک"],
+    "correctIndex": 2,
+    "explanation": "Fragile برای اشیای ظریف و شکننده به کار می‌رود."
+  },
+  {
+    "id": "vocab_04",
+    "category": "vocab",
+    "level": 1,
+    "text": "معنی واژه انگلیسی «Diligent» چیست؟",
+    "options": ["کوشا و سخت‌کوش", "شتاب‌زده", "بی‌تفاوت", "پراکنده"],
+    "correctIndex": 0,
+    "explanation": "Diligent صفت کسی است که با پشتکار و دقت کار می‌کند."
+  },
+  {
+    "id": "vocab_05",
+    "category": "vocab",
+    "level": 1,
+    "text": "معنی واژه انگلیسی «Humble» چیست؟",
+    "options": ["مغرور", "فروتن", "سرزنده", "تندخو"],
+    "correctIndex": 1,
+    "explanation": "Humble به معنی فروتن و متواضع است."
+  },
+  {
+    "id": "vocab_06",
+    "category": "vocab",
+    "level": 2,
+    "text": "معنی واژه انگلیسی «Ambiguous» چیست؟",
+    "options": ["آشکار", "دقیق", "مبهم", "سودمند"],
+    "correctIndex": 2,
+    "explanation": "Ambiguous به عبارتی گفته می‌شود که بیش از یک برداشت دارد و مبهم است."
+  },
+  {
+    "id": "vocab_07",
+    "category": "vocab",
+    "level": 2,
+    "text": "معنی واژه انگلیسی «Resilient» چیست؟",
+    "options": ["تاب‌آور و مقاوم", "آسیب‌پذیر", "شتابان", "بی‌حوصله"],
+    "correctIndex": 0,
+    "explanation": "Resilient یعنی کسی یا چیزی که پس از سختی دوباره توان خود را بازمی‌یابد."
+  },
+  {
+    "id": "vocab_08",
+    "category": "vocab",
+    "level": 2,
+    "text": "معنی واژه انگلیسی «Scarcity» چیست؟",
+    "options": ["فزونی", "تنوع", "امنیت", "کمبود"],
+    "correctIndex": 3,
+    "explanation": "Scarcity به معنی کمبود و نایابی منابع است."
+  },
+  {
+    "id": "vocab_09",
+    "category": "vocab",
+    "level": 2,
+    "text": "معنی واژه انگلیسی «Inevitable» چیست؟",
+    "options": ["تصادفی", "گریزناپذیر", "غیرممکن", "ناشناخته"],
+    "correctIndex": 1,
+    "explanation": "Inevitable یعنی حتمی و چیزی که نمی‌توان از رخ دادن آن جلوگیری کرد."
+  },
+  {
+    "id": "vocab_10",
+    "category": "vocab",
+    "level": 2,
+    "text": "معنی واژه انگلیسی «Persuade» چیست؟",
+    "options": ["منع کردن", "انکار کردن", "متقاعد کردن", "تحمل کردن"],
+    "correctIndex": 2,
+    "explanation": "Persuade به معنی قانع و متقاعد کردن دیگران با دلیل است."
+  },
+  {
+    "id": "vocab_11",
+    "category": "vocab",
+    "level": 3,
+    "text": "معنی واژه انگلیسی «Ephemeral» چیست؟",
+    "options": ["زودگذر", "جاودانه", "پیچیده", "محکم"],
+    "correctIndex": 0,
+    "explanation": "Ephemeral یعنی کوتاه‌مدت و زودگذر، چیزی که دوام طولانی ندارد."
+  },
+  {
+    "id": "vocab_12",
+    "category": "vocab",
+    "level": 3,
+    "text": "معنی واژه انگلیسی «Pragmatic» چیست؟",
+    "options": ["خیال‌پرداز", "عمل‌گرا", "انزواطلب", "سخت‌گیر"],
+    "correctIndex": 1,
+    "explanation": "Pragmatic به رویکرد واقع‌بینانه و عمل‌گرایانه اشاره دارد."
+  },
+  {
+    "id": "vocab_13",
+    "category": "vocab",
+    "level": 3,
+    "text": "معنی واژه انگلیسی «Meticulous» چیست؟",
+    "options": ["بی‌نظم", "سطحی", "ساده", "موشکاف و دقیق"],
+    "correctIndex": 3,
+    "explanation": "Meticulous برای فردی به کار می‌رود که به کوچک‌ترین جزئیات هم دقت می‌کند."
+  },
+  {
+    "id": "vocab_14",
+    "category": "vocab",
+    "level": 3,
+    "text": "معنی واژه انگلیسی «Alleviate» چیست؟",
+    "options": ["کاهش دادن و تسکین بخشیدن", "افزایش دادن", "به تعویق انداختن", "تحمیل کردن"],
+    "correctIndex": 0,
+    "explanation": "Alleviate به معنی سبک‌تر کردن درد یا دشواری است."
+  },
+  {
+    "id": "vocab_15",
+    "category": "vocab",
+    "level": 3,
+    "text": "معنی واژه انگلیسی «Ubiquitous» چیست؟",
+    "options": ["پنهان", "بیگانه", "همه‌جا حاضر", "بی‌سابقه"],
+    "correctIndex": 2,
+    "explanation": "Ubiquitous یعنی چیزی که در همه‌جا دیده می‌شود و حضور فراگیر دارد."
+  }
+]
